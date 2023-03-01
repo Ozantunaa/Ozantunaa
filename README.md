@@ -23,7 +23,7 @@ Merhaba, Ben Ozan 👋
 
 - 💬 Herhangi bir sorunuz/geri bildiriminiz varsa, lütfen bana ulaşmaktan çekinmeyin!
 
-## 🔭 Şuanda çalıştıklarım:
+## 🔭 Şu anda çalıştıklarım:
 
 - Photo markasının Webview ios uygulaması yapımı ve yayına alınması
 - Tavan serisi hesaplayıcı ios ve android uygulamaları
