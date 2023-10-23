@@ -24,6 +24,8 @@ Merhaba, Ben Ozan 👋
 - 💬 Herhangi bir sorunuz/geri bildiriminiz varsa, lütfen bana ulaşmaktan çekinmeyin!
 
 ## 🔭 Şu anda çalıştıklarım:
+-Sosyal medya (aciklama yok)
+- ChatAi
 - Ayakkabi satış platfromu
 - Photo markasının Webview ios uygulaması yapımı ve yayına alınması
 - Tavan serisi hesaplayıcı ios ve android uygulamaları
