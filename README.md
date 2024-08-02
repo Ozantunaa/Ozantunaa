@@ -23,12 +23,13 @@ Merhaba, Ben Ozan 👋
 
 - 💬 Herhangi bir sorunuz/geri bildiriminiz varsa, lütfen bana ulaşmaktan çekinmeyin!
 
-## 🔭 Şu anda çalıştıklarım:
+## 🔭
 -Sosyal medya (aciklama yok)
-- ChatAi
+-ReadUp / IOS ve Android yayında!
+- ChatAi / IOS Yayında
 - Ayakkabi satış platfromu
-- Photo markasının Webview ios uygulaması yapımı ve yayına alınması
-- Tavan serisi hesaplayıcı ios ve android uygulamaları
+- Photo markasının Webview ios uygulaması yapımı ve yayına alınması / IOS Yayında
+- Tavan serisi hesaplayıcı ios ve android uygulamaları / Android Yayında +2500 indirme
 
 ## 💼 Beceriler:
 
