@@ -24,8 +24,8 @@ Merhaba, Ben Ozan 👋
 - 💬 Herhangi bir sorunuz/geri bildiriminiz varsa, lütfen bana ulaşmaktan çekinmeyin!
 
 ## 🔭
--Sosyal medya (aciklama yok)
--ReadUp / IOS ve Android yayında!
+
+- ReadUp / IOS ve Android yayında!
 - ChatAi / IOS Yayında
 - Ayakkabi satış platfromu
 - Photo markasının Webview ios uygulaması yapımı ve yayına alınması / IOS Yayında
