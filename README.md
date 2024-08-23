@@ -2,42 +2,38 @@
 React Native Developer 👨‍💻
 </h2> 
 
-
 <h3 align="center">
-Merhaba, Ben Ozan 👋
+Hi, I'm Ozan 👋
 </h3>
 
+💻 I am a React Native developer constantly improving my skills every day.
 
-💻 React Native geliştiricisiyim ve her geçen gün kendimi geliştirmeye devam ediyorum.
+👨‍💻 I prioritize writing clean and readable code, and I also have a solid understanding of JavaScript.
 
-👨‍💻 Kod yazarken temiz ve anlaşılır kodlar yazmaya özen gösteriyorum ve JavaScript dili hakkında da bilgi birikimim var. 
+💻 Additionally, I closely follow new technologies and strive to integrate the latest advancements into my projects.
 
-💻 Ayrıca, yeni teknolojileri yakından takip ederek projelerime en son teknolojileri entegre etmeye çalışıyorum.
+🚀 I share my projects on my GitHub to reflect this passion. Thank you for visiting!
 
-🚀 Github sayfamda da bu tutkumu yansıtmak için projelerimi paylaşıyorum. Teşekkürler!
-
-### 🤝 Bana ulaşın:
+### 🤝 Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozantunaa)
-</br>
 
-- 💬 Herhangi bir sorunuz/geri bildiriminiz varsa, lütfen bana ulaşmaktan çekinmeyin!
+- 💬 If you have any questions/feedback, feel free to reach out to me!
 
-## 🔭
+## 🔭 Projects:
 
-- ReadUp / IOS ve Android yayında!
-- ChatAi / IOS Yayında
-- Ayakkabi satış platfromu
-- Photo markasının Webview ios uygulaması yapımı ve yayına alınması / IOS Yayında
-- Tavan serisi hesaplayıcı ios ve android uygulamaları / Android Yayında +2500 indirme
+- ReadUp / Available on iOS and Android!
+- ChatAi / Available on iOS
+- Shoe Sales Platform
+- Development and release of a WebView iOS app for a photo brand / Available on iOS
+- Ceiling Series Calculator app for iOS and Android / Available on Android with 2500+ downloads
 
-## 💼 Beceriler:
+## 💼 Skills:
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 
 </br>
 
